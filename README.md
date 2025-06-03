@@ -185,7 +185,7 @@ Przykładowe zagregowane wyniki dla testów na różnych rozmiarach obrazów:
 
 ## 👨‍💻 Autor
 
-**Maciej** _(uzupełnij nazwisko i opcjonalnie kontakt)_
+**Maciej**
 
 ## 📄 Licencja
 
