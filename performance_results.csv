@@ -1,0 +1,4 @@
+ScenarioDescription,AvgClientOverallTimeMs,MinClientOverallTimeMs,MaxClientOverallTimeMs,AvgCommunicationOverheadMs,MinCommunicationOverheadMs,MaxCommunicationOverheadMs,AvgWorkerTotalTimeMs,MinWorkerTotalTimeMs,MaxWorkerTotalTimeMs,AvgGpuKernelTimeMs,MinGpuKernelTimeMs,MaxGpuKernelTimeMs,AvgWorkerCpuOverheadMs,MinWorkerCpuOverheadMs,MaxWorkerCpuOverheadMs,GpuTimeAsPercentageOfWorker,GpuTimeAsPercentageOfClient
+Small Image (320x240),67,73,57,65,101,01,58,79,54,07,70,18,2,60,2,35,3,18,0,86,0,54,1,52,1,74,1,62,1,85,33,17,1,27
+Medium Image (640x480),62,01,34,72,85,14,52,71,25,31,76,12,6,86,4,42,14,71,1,07,0,71,2,48,5,79,3,71,12,23,15,58,1,72
+Large Image (1920x1080),279,83,253,21,311,15,210,21,195,06,228,41,68,69,57,03,82,64,6,42,1,94,19,89,62,27,52,71,76,41,9,35,2,29
